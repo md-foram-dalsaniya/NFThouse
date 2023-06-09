@@ -2,8 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Contact.css";
 import { FaLinkedin } from "react-icons/fa";
-import sir from "../../assets/sir2.jpg"
-// import sir from "../../assets/sir.jpg"
+import sir from "../../assets/sir.jpg"
 import foram from "../../assets/fora.jpg"
 import gaurav from "../../assets/gaurav.jpg"
 
